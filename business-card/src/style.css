@@ -5,13 +5,18 @@ body {
   color: #fff;
 }
  .App {
+  margin: 50px auto;
   display: flex;
   flex-direction: column;
   background-color: #23252C;
   width: 550px;
+  align-items: center;
+  top: 50px;
  }
 
 .profile-img {
   width: 317px;
+  border-radius: 10px 10px 0 0;
+  margin-top: 40px;
 }
 
